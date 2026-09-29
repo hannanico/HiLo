@@ -19,6 +19,42 @@
   }
 }
 
+@media (max-height: 700px) {
+  .hilo-game {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .hilo-game .hilo-player {
+    margin-top: 8px;
+  }
+
+  .hilo-game .hilo-stats {
+    margin-top: 8px;
+  }
+
+  .hilo-game .hilo-card-area {
+    min-height: 190px;
+  }
+
+  .hilo-game .hilo-card {
+    width: 120px;
+    height: 176px;
+  }
+
+  .hilo-game .hilo-card-symbol {
+    font-size: 3.5rem;
+  }
+
+  .hilo-game .hilo-actions {
+    margin-top: 8px;
+  }
+}
+
+dialog:not([open]) {
+  display: none;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
