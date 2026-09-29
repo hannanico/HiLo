@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" height="512" role="img" viewBox="0 0 512 512" width="512">
+  <title id="title">HiLo app icon</title>
+  <desc id="desc">Emerald up arrow and sky blue down arrow on a dark playing card.</desc>
+  <rect fill="#020617" height="512" width="512"/>
+  <rect fill="#0f172a" height="396" rx="52" stroke="#334155" stroke-width="8" width="340" x="86" y="58"/>
+  <path d="M86 110a52 52 0 0 1 52-52h236a52 52 0 0 1 52 52v146H86V110Z" fill="#10b981"/>
+  <path d="M86 256h340v146a52 52 0 0 1-52 52H138a52 52 0 0 1-52-52V256Z" fill="#0ea5e9"/>
+  <path d="M256 113 171 198h51v37h68v-37h51l-85-85Z" fill="#fff"/>
+  <path d="M222 277h68v37h51l-85 85-85-85h51v-37Z" fill="#fff"/>
+  <path d="M171 256h170" opacity="0.24" stroke="#020617" stroke-width="7"/>
+</svg>
